@@ -4,7 +4,7 @@ WeCodeAtBj is where web developper student from [Marronile](https://www.marronil
 ### Join us in our telegram
 If you want to be caoched in web developpement (Node Js, Php and Python), feel to join us in our telegram channel [https://t.me/coaching_programmation_web](https://t.me/coaching_programmation_web).
 
-### Checkout the the real project oriented tutorials
+### Checkout the real project oriented tutorials
 Each tutorial is written with a real project. Visite [Marronile.com](https://www.marronile.com/)
 
 ### Clone or download real project source code for free
